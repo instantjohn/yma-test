@@ -1,0 +1,16 @@
+{
+  "name": "my-test",
+  "version": "1.0.0",
+  "description": "my test package for youtube-music-api",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "instantjohn",
+  "license": "ISC",
+  "dependencies": {
+    "standard-youtube-music-api": "^1.0.13"
+  },
+  "devDependencies": {}
+}
